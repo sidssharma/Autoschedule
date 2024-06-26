@@ -27,7 +27,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://github.com/sidssharma/Autoschedule.git",
+  "homepage": "https://sidssharma.github.io/Autoschedule/",
   "browserslist": {
     "production": [
       ">0.2%",
