@@ -1,0 +1,16 @@
+.heading{
+    display: flex;
+    flex-direction: row;
+    font-family: Verdana, Helvetica, sans-serif ;
+   
+
+}
+div.firstPart{
+    display: inline-block;
+    margin-right: auto;
+}
+
+div.secondPart{
+    display: inline-block;
+    text-align: right;
+}
